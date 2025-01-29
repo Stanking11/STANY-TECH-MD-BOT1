@@ -28,14 +28,14 @@ Click the button below to fork the repository and start customizing:
 ✌️2. 🅖︎🅔︎🅣︎ 🅝︎🅞︎🅡︎🅜︎🅐︎🅛︎ 🅢︎🅔︎🅢︎🅢︎🅘︎🅞︎🅝︎ 🅘︎🅓︎👇
 Easily manage your session ID with a single click:  
 
-.[![SESSIONS ID👇](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser.onrender.com)
+.[![SESSIONS ID👇](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=pink )](https://yesser.onrender.com)
 
 ---
 
 🥱3. 🅢︎🅒︎🅐︎🅝︎ 🅠︎🅡︎ 🅒︎🅞︎🅓︎🅔︎🤟  
 Use the QR Code below for seamless authentication:  
 
-[![SCAN NOW👇](https://img.shields.io/badge/QR%20Code-Scan-orange?style=for-the-badge)](#)
+[![SCAN NOW👇](https://img.shields.io/badge/QR%20Code-Scan-red?style=for-the-badge)](#)
 
 ---
 
