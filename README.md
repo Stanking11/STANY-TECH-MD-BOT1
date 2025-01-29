@@ -1,7 +1,5 @@
-𝚂𝚃𝙰𝙽𝚈 𝚃𝙴𝙲𝙷 𝙼𝙳 𝙱𝙾𝚃
-
+#STANY-TECH-MD 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=150&lines=THANKS FOR YOUR+SUPPORT-DONT; FORGET+TO+FORK+MYREPO;CREATED+BY+STANYTECH;RELEASED+25.2.2025" alt="Typing SVG" /></a>
-
 <p align="center">
   <a href="https://github.com/mrfrank-ofc">
     <img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=STANY-TECH-MD-BOT+MultiDevice;Developed+by+STANLEY+star+and+fork+this+Repo+bro+🌟" alt="stankingReadme">
