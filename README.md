@@ -35,7 +35,7 @@ Easily manage your session ID with a single click:
 🥱3. 🅢︎🅒︎🅐︎🅝︎ 🅠︎🅡︎ 🅒︎🅞︎🅓︎🅔︎🤟  
 Use the QR Code below for seamless authentication:  
 
-[![SCAN NOW👇](https://img.shields.io/badge/QR%20Code-Scan-red?style=for-the-badge)](#)
+[![SCAN NOW👇](https://img.shields.io/badge/QR%20Code-Scan-logocolor=red?style=for-the-badge)](#)
 
 ---
 
