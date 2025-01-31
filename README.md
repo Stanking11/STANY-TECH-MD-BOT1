@@ -1,4 +1,4 @@
-#STANY-TECH-MD 
+#𝗦𝗧𝗔𝗡𝗬 𝗧𝗘𝗖𝗛 𝗠𝗗 𝗕𝗢𝗧 𝟭 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=150&lines=THANKS FOR YOUR+SUPPORT-DONT; FORGET+TO+FORK+MYREPO;CREATED+BY+STANYTECH;RELEASED+25.2.2025" alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://github.com/mrfrank-ofc">
